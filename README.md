@@ -173,6 +173,6 @@ The results emphasize the importance of **fairness-aware and responsible machine
 ## Repository Structure
 
 ```text
-├── GRM_DIP_432682_Final_FinalAdd.ipynb
+├── Code.ipynb
 ├── README.md
-└── dataset/
+└── document.docx
